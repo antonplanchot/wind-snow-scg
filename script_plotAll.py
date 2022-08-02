@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import netCDF4 as nc
-from script_erosion3C_1 import erosion3C
+from script_erosion3C_2 import erosion3C
 from script_erosion1C_1 import erosion1C
 from script_plot1C import plotplurian1C, plotsensibilite1C, plotannuel1C
 from script_plot3C import plotplurian3C, plotsensibilite3C, plotannuel3C
